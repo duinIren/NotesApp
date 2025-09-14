@@ -1,2 +1,2 @@
-# C_Calculator
-Making of a calculator app using C# and .Net Framework
+# NotesApp
+Making of a note app using only C
